@@ -1,0 +1,5 @@
+## Kotlin Version
+kotlin.version=1.5.0
+
+## Test Libraries
+junit.version=5.9.0
