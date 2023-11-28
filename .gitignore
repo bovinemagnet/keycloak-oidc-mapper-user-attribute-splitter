@@ -114,3 +114,6 @@ user-attribute-splitter.iml
 user-attribute-splitter.ipr
 user-attribute-splitter.main.iml
 user-attribute-splitter.test.iml
+
+## Not gradle wrapper
+!gradle/wrapper/gradle-wrapper.jar
